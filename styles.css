@@ -70,6 +70,6 @@ font-size: 1.2rem;z
 .button-btn:hover {
     transform: scale(1.1);
     color: blue;
-    transition: all 0.3s ;
+    transition: all 0.3s
 }
 
